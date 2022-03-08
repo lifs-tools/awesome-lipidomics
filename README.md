@@ -4,6 +4,8 @@
 
 A collection of [awesome](https://github.com/sindresorhus/awesome) lipidomics tools, libraries, databases and resources.
 
+Please read out [Contribution Guide](CONTRIBUTING.md) if you want to contribute to this collection. See all [contributors here](https://github.com/lifs-tools/awesome-lipidomics/graphs/contributors).
+
 ## Programs & Libraries for Lipid Identification
 
 [Table 1](Lipid_Identification.tsv)
