@@ -95,4 +95,4 @@ Table 3. Overview of databases and resources for lipidomics grouped by classific
 
 Your contributions are always welcome!
 
-This work is licensed under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International License - CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+This work is licensed under the terms of the [Creative Commons Attribution 4.0 International License - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
