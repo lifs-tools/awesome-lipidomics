@@ -29,4 +29,4 @@ ALEX & ALEX 123	U	C, I, DI	MS1, MS2, MS3	Manual	no	manual input of parameters	HT
 LipidQA	T + U	DI	MS1, MS2	Spectral library + score	yes	vendor (Thermo, Waters)	CSV	2007	NA (7)	NA (7)	NA	Visual C++	17720531	https://pubmed.ncbi.nlm.nih.gov/17720531	(7) The software is no longer available.
 LipidomeDB	T	DI	MS1, MS2	m/z library + Transitions + rule based	yes	XLSX	XLSX, HTML	2019	NA	no	NA	Java	30575037	https://pubmed.ncbi.nlm.nih.gov/30575037	
 LipoStarMSI	T + U	DI, I	MS1, MS2	Spectral library + rule based	yes	vendor (Bruker, Waters), imzML	CSV	2020	NA	no	Proprietary	C#	32881505	https://pubmed.ncbi.nlm.nih.gov/32881505	
-massPix	U	I	MS1	m/z library + rule based	no	imzML	CSV	2017	1.2	yes	NA	R	28989334	https://pubmed.ncbi.nlm.nih.gov/28989334																
+massPix	U	I	MS1	m/z library + rule based	no	imzML	CSV	2017	1.2	yes	NA	R	28989334	https://pubmed.ncbi.nlm.nih.gov/28989334	
