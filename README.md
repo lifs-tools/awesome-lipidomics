@@ -4,15 +4,19 @@
 
 A collection of [awesome](https://github.com/sindresorhus/awesome) lipidomics tools, libraries, databases and resources.
 
-# Programs & Libraries
+## Programs & Libraries for Lipid Identification
 
-# Online Resources & Databases
+[Table 1](Lipid_Identification.tsv)
 
+## Post Processing, Visualization and Statistical Analysis
 
-# Data Repositories & Archives
+[Table 2](Post_Processing_Vis_and_Stat_Analysis.tsv)
 
+## Databases, Repositories and other Resources
 
-# Contributing
+[Table 3](Databases_Repositories_and_other_Resources.tsv)
+
+## Contributing
 
 Your contributions are always welcome!
 
