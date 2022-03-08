@@ -1,17 +1,17 @@
 Name	Classification	Type	OpenSource	License	Programming Language	Last Release	Version	PMID	URL	Remarks
 BioPAN	Ontology, Enrichment, Pathway Analysis	Web application	no	GPL v3	PHP, R, HTML, JavaScript	2020	NA	33564392	https://pubmed.ncbi.nlm.nih.gov/33564392	
-SMIRFE	Ontology, Classification (1)	Library	yes	NA	Python	2020	187eb261983b6d0aca1c (2)	32214009	https://pubmed.ncbi.nlm.nih.gov/32214009	(1) From molecular formulas, (2) Figshare id
-Lipid Classifier	Ontology, Classification (3)	Library	yes	A-GPL v3	Ruby	2014	0.0.0.1	25359887	https://pubmed.ncbi.nlm.nih.gov/25359887	(3) based on lipid structural features
-LipiDisease	Ontology, Enrichment	Web application	no	NA	R	2021	NA	34358314	https://pubmed.ncbi.nlm.nih.gov/34358314	
-LION/web	Ontology, Enrichment	Web application	yes	GPL v3	R	2020	NA	31141612	https://pubmed.ncbi.nlm.nih.gov/31141612	
-Lipid Mini-On	Ontology, Enrichment	Web application, Library (4)	yes	BSD 2-Clause	R	2019	0.1.43	30977807	https://pubmed.ncbi.nlm.nih.gov/30977807	(4) Library Rodin is used by the web application
-liputils	Post Processing	Library	yes	GPL v3	Python	2021	0.16.2	32770020	https://pubmed.ncbi.nlm.nih.gov/32770020	
-RefMet	Post Processing	Web application	no	NA	PHP, R	2021	NA	33199890	https://pubmed.ncbi.nlm.nih.gov/33199890	
-Goslin	Post Processing	Web application, Library	yes	MIT, Apache v2	C++, C#, Java, Python, R	2022	2.0	32589019	https://pubmed.ncbi.nlm.nih.gov/32589019	
-LipidLynxX	Post Processing	Web application, Library	yes	GPL v3	Python	2020	0.9.24	-	https://doi.org/10.1101/2020.04.09.033894	
+Goslin	Post Processing	Web application, Library	yes	MIT, Apache v2	C++, C#, Java, Python, R	2022	2.0	32589019	https://pubmed.ncbi.nlm.nih.gov/32589019	(1) From molecular formulas, (2) Figshare id
+Kendrick mass-defect plots	Visualization	Library (8)	yes	GPL v2	Java	2019 (9)	2.53	29575335	https://pubmed.ncbi.nlm.nih.gov/29575335	(3) based on lipid structural features
 LICAR	Post Processing	Web application	yes	MIT	R	2021	1.0	33535740	https://doi.org/10.1101/2020.04.09.033894	
-lipidr	Statistical Analysis, Visualization	Library	yes	MIT	R	2021	2.8.1 (5)	32168452	https://pubmed.ncbi.nlm.nih.gov/32168452	(5) Part of Bioconductor release 3.14
+LION/web	Ontology, Enrichment	Web application	yes	GPL v3	R	2020	NA	31141612	https://pubmed.ncbi.nlm.nih.gov/31141612	
+Lipid Classifier	Ontology, Classification (3)	Library	yes	A-GPL v3	Ruby	2014	0.0.0.1	25359887	https://pubmed.ncbi.nlm.nih.gov/25359887	(4) Library Rodin is used by the web application
+Lipid Mini-On	Ontology, Enrichment	Web application, Library (4)	yes	BSD 2-Clause	R	2019	0.1.43	30977807	https://pubmed.ncbi.nlm.nih.gov/30977807	
+LipiDisease	Ontology, Enrichment	Web application	no	NA	R	2021	NA	34358314	https://pubmed.ncbi.nlm.nih.gov/34358314	
+LipidLynxX	Post Processing	Web application, Library	yes	GPL v3	Python	2020	0.9.24	-	https://doi.org/10.1101/2020.04.09.033894	
+lipidr	Statistical Analysis, Visualization	Library	yes	MIT	R	2021	2.8.1 (5)	32168452	https://pubmed.ncbi.nlm.nih.gov/32168452	
 LipidSuite	Statistical Analysis, Visualization	Web application	no	NA	R	2021	1	33950258	https://pubmed.ncbi.nlm.nih.gov/33950258	
-MetaboAnalyst	Statistical Analysis, Visualization	Web application, Library	no (6)	GPL v2	Java, R (7)	2021	5.0	34019663	https://pubmed.ncbi.nlm.nih.gov/34019663	(6) Only the R package is OpenSource, (7) R package MetaboAnalystR 3.2 (2021)
-Kendrick mass-defect plots	Visualization	Library (8)	yes	GPL v2	Java	2019 (9)	2.53	29575335	https://pubmed.ncbi.nlm.nih.gov/29575335	(8) Part of MZmine 2, (9) MZmine 3 release is planned for 2022
+liputils	Post Processing	Library	yes	GPL v3	Python	2021	0.16.2	32770020	https://pubmed.ncbi.nlm.nih.gov/32770020	(5) Part of Bioconductor release 3.14
 LUX Score	Statistical Analysis, Visualization	Web application, application	yes	Apache v2	Perl, R, Python	2018	1.0.1	26393792	https://pubmed.ncbi.nlm.nih.gov/26393792	
+MetaboAnalyst	Statistical Analysis, Visualization	Web application, Library	no (6)	GPL v2	Java, R (7)	2021	5.0	34019663	https://pubmed.ncbi.nlm.nih.gov/34019663	(6) Only the R package is OpenSource, (7) R package MetaboAnalystR 3.2 (2021)
+RefMet	Post Processing	Web application	no	NA	PHP, R	2021	NA	33199890	https://pubmed.ncbi.nlm.nih.gov/33199890	(8) Part of MZmine 2, (9) MZmine 3 release is planned for 2022
+SMIRFE	Ontology, Classification (1)	Library	yes	NA	Python	2020	187eb261983b6d0aca1c (2)	32214009	https://pubmed.ncbi.nlm.nih.gov/32214009	
