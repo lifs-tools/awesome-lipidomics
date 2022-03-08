@@ -15,5 +15,3 @@ LipidSuite	Statistical Analysis, Visualization	Web application	no	NA	R	2021	1	33
 MetaboAnalyst	Statistical Analysis, Visualization	Web application, Library	no (6)	GPL v2	Java, R (7)	2021	5.0	34019663	https://pubmed.ncbi.nlm.nih.gov/34019663	(6) Only the R package is OpenSource, (7) R package MetaboAnalystR 3.2 (2021)
 Kendrick mass-defect plots	Visualization	Library (8)	yes	GPL v2	Java	2019 (9)	2.53	29575335	https://pubmed.ncbi.nlm.nih.gov/29575335	(8) Part of MZmine 2, (9) MZmine 3 release is planned for 2022
 LUX Score	Statistical Analysis, Visualization	Web application, application	yes		Perl, R, Python					
-										
-Table 2. Libraries and web applications for Pathway analysis, ontology mapping / classification, enrichment analysis, post-processing, visualization and statistical analysis. Remarks: (1) From molecular formulas. (2) Figshare id. (3) Based on lipid structural features. (4) Library Rodin is used by the web application. (5) Part of Bioconductor release 3.14. (6) Only the R package is OpenSource. (7) R package MetaboAnalystR 3.2 (2021). (8) Part of MZmine 2. (9) MZmine 3 release is planned for 2022. 										
